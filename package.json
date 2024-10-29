@@ -14,5 +14,6 @@
 	"author": "Jorge407",
 	"description": "prueba npm",
 	"keywords": ["freecodecamp","otra"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.1.0"
 }
