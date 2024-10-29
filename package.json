@@ -13,5 +13,6 @@
 	},
 	"author": "Jorge407",
 	"description": "prueba npm",
-	"keywords": ["freecodecamp","otra"]
+	"keywords": ["freecodecamp","otra"],
+	"licenses": ["MIT"]
 }
